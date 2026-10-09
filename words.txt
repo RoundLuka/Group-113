@@ -1,0 +1,9 @@
+Level 04:
+points - ქულა
+score - საბოლოო ქულა
+amount - რაოდენობა
+variable - ცვლადი
+declare - გამოცხადება
+revenue - შემოსვალი
+price - ღირებულება
+interrupt - საქმეში ჩაჩრა

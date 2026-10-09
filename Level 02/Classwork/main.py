@@ -1,3 +1,7 @@
+"""
+დავალების პირობა: გავაკეთო ცვლადი, შევასრულო შემდეგი ოპერაცია
+"""
+
 print("Hello Chads") # String
 print("GOA BEST!")
 print("Hello World")
