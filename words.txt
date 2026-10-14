@@ -7,3 +7,8 @@ declare - გამოცხადება
 revenue - შემოსვალი
 price - ღირებულება
 interrupt - საქმეში ჩაჩრა
+
+# Level 05:
+search - ძიება
+whitespace - ცარიელი ადგილები
+line break - ცარიელი ხაზი
