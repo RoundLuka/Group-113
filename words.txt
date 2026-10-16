@@ -12,3 +12,10 @@ interrupt - საქმეში ჩაჩრა
 search - ძიება
 whitespace - ცარიელი ადგილები
 line break - ცარიელი ხაზი
+
+# Level 06:
+display - გამოსახულება
+interpret - აღქმა/განმარტება
+lowercase - პატარა ლათინური სიმბოლო
+uppercase - დიდი ლათინური სიმბოლო
+sensitive - მგძნობრინარე
