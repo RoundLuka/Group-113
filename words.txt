@@ -19,3 +19,10 @@ interpret - აღქმა/განმარტება
 lowercase - პატარა ლათინური სიმბოლო
 uppercase - დიდი ლათინური სიმბოლო
 sensitive - მგძნობრინარე
+
+# Level 07:
+indentation - ხაზის დაწყებისას 4 space
+bold - მუქი
+italic - იტალური სტილის ტექსტი
+underline - ქვედახაზი
+semantic - ემოციური დატვრთვის მქონე
