@@ -26,3 +26,12 @@ bold - მუქი
 italic - იტალური სტილის ტექსტი
 underline - ქვედახაზი
 semantic - ემოციური დატვრთვის მქონე
+
+# Level 08:
+compare - შედარება
+
+# Level 10:
+convert - გარდაქმნა 
+quantity - რაოდენობა
+total - მთლიანი
+if - თუ
