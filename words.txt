@@ -35,3 +35,7 @@ convert - გარდაქმნა
 quantity - რაოდენობა
 total - მთლიანი
 if - თუ
+
+Level 11:
+nest - ბუდე
+nesting - ჩაბუდება
