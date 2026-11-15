@@ -39,3 +39,6 @@ if - თუ
 Level 11:
 nest - ბუდე
 nesting - ჩაბუდება
+
+# Level 13:
+iteration - გამორება
